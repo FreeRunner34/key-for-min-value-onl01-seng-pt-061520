@@ -7,4 +7,5 @@ def key_for_min_value(name_hash)
       a<=>b
     puts "#{:name_hash}"
   end 
+end 
 end
